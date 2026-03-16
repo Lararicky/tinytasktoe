@@ -105,5 +105,5 @@ jobs:
         context: .
         push: true
         tags: |
-          anunpanya/tinytask:latest
-          anunpanya/tinytask:${{ github.sha }}
+          lararicky/tinytask:latest
+          lararicky/tinytask:${{ github.sha }}
